@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Abdus Salam Hasan</h1>
-<h3 align="center">A passionate backend developer from Bangladesh 🇧🇩</h3>
+<h1 align="center">Hi, I'm Abdus Salam Hasan</h1>
+<h3 align="center">A passionate Django developer from Bangladesh 🇧🇩</h3>
 
-- 🔭 I’m currently working on [Django Basic](https://github.com/Hasan-Error-Code/Django-Project-1.git)
+- 🔭 I’m currently working on [Django]([https://github.com/Hasan-Error-Code/Django-Project-1.git](https://github.com/Hasan-Error-Code/AI-Quest.git))
 
 - 🌱 I’m currently learning **Django**
 
@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Python, Django**
 
-- 📫 How to reach me **hasan.code.error@gmail.com**
+- 📫 How to reach me <button href="https://www.facebook.com/mdas.hasanas/">facebook</button>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
