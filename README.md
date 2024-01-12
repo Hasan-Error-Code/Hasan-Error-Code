@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Python, Django**
 
-- 📫 How to reach me <button href="https://www.facebook.com/mdas.hasanas/">facebook</button>
+- 📫 How to reach me https://www.facebook.com/mdas.hasanas/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
