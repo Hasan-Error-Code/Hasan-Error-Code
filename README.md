@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Abdus Salam Hasan</h1>
 <h3 align="center">A passionate Django developer from Bangladesh 🇧🇩</h3>
-
+<!-- comment -->
 - 🔭 I’m currently working on [Django](https://github.com/Hasan-Error-Code/Apple.git)
 
 - 🌱 I’m currently learning **Django**
